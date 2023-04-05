@@ -1,10 +1,10 @@
 .nav-colour{
-    background-color: #A9907E;
+    background-color: #FAEDCD;
     padding: 0.4rem;
     
 }
 /* body{
-    background-color: #A9907E;
+    background-color: ;
 } */
 .nav-padding{
     padding: 0;
@@ -27,8 +27,15 @@
 
 .card{
     margin: 1rem;
+    background-color: #A9907E;
 }
 
 .border-0{
     box-shadow: 0 2px 7px 0;
+}
+.list-group-item{
+    background-color: #A9907E;
+}
+.container-fluid{
+    justify-content: center;
 }
